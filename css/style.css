@@ -1,0 +1,42 @@
+body{
+    font-family: "Inter", sans-serif;
+    font-size:9.74px ;
+    line-height: 13.92px;
+    background: #FFFFFF;
+    color: #717171;
+}
+
+.header_nav_list_1 a , .header_nav_register_button_1{
+    color: #717171 ;
+    text-decoration:none ;
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+    /* text-align: center; */
+}
+
+.Hero{
+    background-color:#F5F7FA
+}
+
+.Hero h1{
+    font-weight: 600;
+    font-size: 44.55px;
+    line-height: 52.9px;
+}
+
+.Hero p{
+    font-size: 11.14px;
+    line-height: 16.71px;
+}
+
+.Hero_register_button_1{
+    font-size: 11.14px;
+    line-height: 16.71px;
+    font-weight: 500;
+    color: #717171 ;
+    text-decoration:none ;
+    /* text-align: center; */
+}
+
+
