@@ -6,14 +6,33 @@ body{
     color: #717171;
 }
 
-.header_nav_list_1 a , .header_nav_register_button_1{
-    color: #717171 ;
+
+
+
+
+/* header !!!!!!!!!!!!!!!!!!! */
+
+.header_nav_list_1 a {
+    color: #4D4D4D;
     text-decoration:none ;
     font-size:11.14px ;
     line-height:16.71px ;
     font-weight: 500;
-    /* text-align: center; */
 }
+
+.header_nav_register_button_1{
+    color:#FFFFFF;
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+    background-color:#4CAF4F;
+    text-decoration:none ;
+     
+}
+
+
+
+/* Hero !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 
 .Hero{
     background-color:#F5F7FA
@@ -36,7 +55,277 @@ body{
     font-weight: 500;
     color: #717171 ;
     text-decoration:none ;
-    /* text-align: center; */
+
 }
+
+
+
+
+/* Our_Clients !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Our_Clients h2{
+    font-weight: 600;
+    font-size:25.06px;
+    line-height: 30.63px;
+}
+
+.Hero_title_h1_grey_parth{
+    color: #4D4D4D;
+} 
+
+.Hero_title_h1_green_parth{
+    color: #4CAF4F;
+}
+
+.Hero p{
+    font-size:11.14px;
+    line-height:16.71px;
+}
+
+.Hero_register_button_1{
+    color:#FFFFFF;
+    font-size:11.14px;
+    line-height:16.71px;
+    font-weight:500;
+    background-color:#4CAF4F
+}
+
+
+
+/* Our_Clients!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Our_Clients h2{
+    font-weight: 600;
+    font-size:25.06px;
+    line-height: 30.63px;
+    color:#4D4D4D
+}
+
+.Our_Clients{
+    font-weight: 400px;
+    font-size: 11.14px;
+    line-height: 16.71px;
+}
+
+
+
+
+/* Community!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Community_title1{
+    font-weight:600;
+    font-size:25.06px;
+    line-height: 30.63px;
+    color:#4D4D4D
+}
+
+.Community_text1{
+    font-size: 11.14px;
+    line-height: 16.71px;
+}
+
+.Community_article h3{
+    font-weight: 700;
+    font-size: 19.49px;
+    line-height:25.06px;
+}
+
+
+
+
+/* Unseen!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Unseen h2{
+    font-weight:600;
+    font-size:25.06px;
+    line-height: 30.63px;
+    color:#4D4D4D
+}
+
+.Unseen_button_1{
+    color:#FFFFFF;
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+    background-color:#4CAF4F;
+    text-decoration:none ;
+}
+
+
+
+
+/* Achivments!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Achivments h2{
+    font-weight:600;
+    font-size:25.06px;
+    line-height: 30.63px;
+    color:#4D4D4D
+}
+
+.Achivments_text1{
+    font-size: 11.14px;
+    line-height: 16.71px;
+    color:#18191F;
+}
+
+.Achivments_amounts{
+    font-weight: 700;
+    font-size:19.49px;
+    line-height: 25.06px;
+    color: #4D4D4D;
+}
+
+.Achivments_text2{
+    line-height: 16.71px;
+}
+
+
+
+
+/* Help_designing_footer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Help_designing_footer h2{
+    font-weight:600;
+    font-size:25.06px;
+    line-height: 30.63px;
+    color:#4D4D4D
+}
+
+.Achivments_button_1{
+    color:#FFFFFF;
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+    background-color:#4CAF4F;
+    text-decoration:none ;
+}   
+
+
+
+
+/* Customers!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Customers h2{
+    font-weight: 600;
+    font-size: 13.92px;
+    line-height: 19.49px;
+    color: #4CAF4F;
+}
+
+.Customers_text1{
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+}
+
+.Customers_text1{
+    font-size:11.14px ;
+    line-height:16.71px ;
+}
+
+.Customers_button_1{
+    font-weight: 600;
+    font-size: 13.92px;
+    line-height: 19.49px;
+    color: #4CAF4F;
+    text-decoration: none;
+}
+
+
+
+
+/* Customers_Updates!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Customers_Updates h2{
+    font-weight:600;
+    font-size:25.06px;
+    line-height: 30.63px;
+    color:#4D4D4D
+}
+
+.Customers_Updates_text1{
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+}
+
+.Customers_Updates_text2{
+    font-weight: 600;
+    font-size: 13.92px;
+    line-height: 19.49px;
+}
+
+.Customers_Updates_button{
+    font-weight: 600;
+    font-size: 13.92px;
+    line-height: 19.49px;
+    color:#4CAF4F;
+    text-decoration: none;
+}
+
+
+
+
+/* Info_before_footer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Info_before_footer h2{
+    font-weight:600;
+    font-size: 44.55px;
+    line-height:52.9px;
+    color: #263238;
+}
+
+.Info_before_footer_button_1{
+    color:#FFFFFF;
+    font-size:11.14px ;
+    line-height:16.71px ;
+    font-weight: 500;
+    background-color:#4CAF4F;
+    text-decoration:none ;
+}
+
+
+
+
+/* footer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+footer{
+    background-color:#263238;
+
+}
+
+
+/* footer_left_part!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.footer_left_part{
+    color: #F5F7FA;
+}
+
+
+/* footer_Extra_information!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+.footer_Extra_information_list_item_title h2{
+    font-weight: 600;
+    font-size: 13.92px;
+    line-height: 19.49px;
+    color: #FFFFFF;
+}
+
+.footer_Extra_information_list_item{
+    color: #F5F7FA;
+    text-decoration: none;
+}
+
+.footer_Extra_information_list_item_address{
+    background-color:grey;
+}
+
+.footer_Extra_information_list_item_title_unssual{
+    color: #FFFFFF;
+}
+
+
 
 
