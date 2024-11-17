@@ -521,7 +521,54 @@ header{
     margin:0;
     margin-bottom: 11px;
     text-align:center;
+
 }
+
+.Customers_Updates_list{
+    display: flex;
+    width:802px;
+    justify-content: space-between;
+    list-style:none;
+    margin: 0;
+    padding:0;
+    margin: 0 auto;
+}
+
+.Customers_Updates_list_item{
+    width: 256px;
+    margin: 0;
+}
+
+.Customers_Updates_list_item_img{
+    position: relative;
+    top: 67px;
+}
+
+.Customers_Updates_list_item_block{
+    width: 220.5px;
+    height:123.5px;
+    position: relative;
+    z-index: 2;
+    left:18px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 11px;
+}
+
+.Customers_Updates_list_item_block p{
+    margin: 0;
+    margin-bottom:11px;
+    text-align: center;
+}
+
+.Customers_Updates_list_item_block a{
+    display: flex;
+    width: 69px;
+    height: 20px;
+    margin: 0 auto;
+    /* margin-bottom: 17px; */
+}
+
 
 
 
@@ -674,6 +721,7 @@ header{
     margin: 0;
     align-items: center;
     padding:0 8px ;
+    box-sizing: border-box;
 
 }
 

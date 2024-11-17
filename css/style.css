@@ -264,6 +264,10 @@ body{
     font-weight: 500;
 }
 
+.Customers_Updates_list_item_block{
+    background-color:#F5F7FA;
+}
+
 .Customers_Updates_text2{
     font-weight: 600;
     font-size: 13.92px;
