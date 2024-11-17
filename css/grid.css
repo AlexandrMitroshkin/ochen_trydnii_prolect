@@ -1,0 +1,689 @@
+body{
+    margin: 0;
+}
+
+/* header!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+header{
+    padding:11px 103px ;
+    margin: 0 auto;
+    width: 802px;
+}
+
+.header_nav{
+    display:flex;
+    align-items: center;
+}
+
+.header_nav_loga{
+    margin-right:auto ;
+    width: 108px;
+    height: 17px;
+}
+
+.header_nav_element_2{
+    width: 650.5px;
+    display: flex;
+}
+
+.header_nav_list_1{
+    display: flex;
+    width: 308px;
+    margin: 0;
+    padding: 0;
+    list-style:none;
+    justify-content: space-between;
+    margin-left:auto ;
+    align-items: center;
+}
+
+.nav_list_item a{
+    display: block;
+    height: 17px;
+}
+
+.header_nav_register_button_1{
+    display: flex;
+    width: 133px;
+    height: 36.5px;
+    align-items: center;
+    justify-content: center;
+    margin-left:22px ;
+
+}
+
+
+
+
+/* hero!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Hero{
+    padding:67px 0;
+    margin: 0;
+    margin-bottom:28px ;
+
+}
+
+.Hero_flex{
+    display: flex;
+    width: 801px;
+    margin:auto ;
+    justify-content: space-between;
+}
+
+.Hero_element_1{
+    width: 457px;
+    height:272px;
+    padding: 45px 0;
+}
+
+.Hero_title_h1{
+    margin: 0;
+    margin-bottom: 11px;
+}
+
+.Hero_element_1 p{
+    margin: 0;
+    margin-bottom:22px;
+}
+
+.Hero_register_button_1{
+    display: block;
+    width: 90px;
+    height: 36px;
+    text-align: center;
+    padding:10px 0 ;
+    box-sizing: border-box;
+}
+
+
+
+
+/* Our_Clients!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1 */
+
+.Our_Clients{
+    /* padding: 103px; */
+    margin:0;
+    margin:0 auto;
+    width: 802px;
+    margin-bottom:28px ;
+
+}
+
+.Our_Clients h2{
+    text-align: center;
+    margin: 0;
+    margin-bottom:5px ;
+}
+
+.Our_Clients p{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 11px;
+}
+
+.Our_Clients_list{
+    width: 802px;
+    margin: 0;
+    padding:0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+/* .Our_Clients_list_item{
+    margin: 0;
+    margin-right: 97.5px;
+} */
+
+
+
+
+
+/* Community!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Community h2{
+    text-align:center;
+    margin: 0 auto;
+    margin-bottom:5px;
+}
+
+.Community p{
+    text-align:center;
+    margin: 0 auto;
+    margin-bottom:11px;
+}
+
+.Community_flex{
+    display: flex;
+    justify-content: space-between;
+    width:802px ;
+    margin: 0 auto;
+    padding:0 100px;
+    margin-bottom: 19px;
+
+}
+
+.Community_article{
+    /* margin-right:89px; */
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    justify-content:center;
+    width:208px;
+}
+
+.Community_article_1{
+    height: 182px;
+    padding: 17px 11px;
+}
+
+.Community_article_2{
+    height: 196px;
+    padding:17px 11px;
+}
+
+.Community_article_3{
+    height: 182px;
+    margin: 0;
+    padding: 17px 11px;
+
+}
+
+.Community_article_img{
+    order: -1;
+}
+
+.Community_article img{
+    margin: 0;
+}
+
+.Community_article h3{
+    display: block;
+    margin: 0;
+
+}
+
+.Community_article p{
+    display:block;
+    margin:0;
+    text-align:center;
+}
+
+.Community_article_title{
+    width: 186px;
+    height: 51px;
+    margin:0;
+    padding:0;
+    margin-bottom: 6px;
+    text-align:center;
+}
+
+.Community_article_text{
+    width: 175px;
+    height: 172px;
+    justify-content:center;
+    margin: 0 6px;
+    text-align: center;
+}
+
+.Community_article_img{
+    width:186px ;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Community_article_title_3{
+    width: 161px;
+    text-align: center;
+    margin:0 12.5px;
+}
+
+.Community_article_text_2{
+    margin: 0;
+    margin: 0 9px;
+}
+
+
+
+
+/* Unseen!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Unseen{
+    height:301px;
+    padding:0 100px;
+    margin-bottom:34px;
+}
+
+.Unseen_flex{
+    width: 802px;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.Unseen_img{
+    order:-1;
+    margin: 0;
+}
+
+.Unseen_element_1{
+    width: 460px;
+    height: 189px;
+    padding-right:42px ;
+}
+
+.Unseen_element_1 h2{
+    margin:0;
+    margin-bottom:11px;
+}
+
+.Unseen_element_1 p{
+    margin: 0;
+    margin-bottom:22px;
+}
+
+.Unseen_button_1{
+    display: block;
+    width: 106px;
+    height: 36px;
+    text-align: center;
+    padding:10px 0;
+    box-sizing: border-box;
+}
+
+
+
+
+/* Achivments!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Achivments{
+    padding: 44.5px 100px;
+    margin:0 auto;
+}
+
+.Achivments_flex{
+    width: 802px;
+    height: 114px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.Achivments_element_1{
+    width: 376px;
+    height: 84.5px;
+}
+
+.Achivments_element_1 h2{
+    margin: 0;
+    margin-bottom:5.5px;
+}
+
+.Achivments_element_1 p{
+    margin:0;
+}
+
+.Achivments_amounts_grid{
+    width: 375px;
+    height: 114px;
+    display: grid;
+    grid-template-columns:177.5px 177.5px ;
+    column-gap:21px;
+    row-gap:28px;
+    margin: 0;
+    padding: 0;
+}
+
+.amounts_element{
+    width: 177.5px;
+    height: 43px;
+    margin: 0;
+    padding:0;
+    display: flex;
+    justify-content:space-between;
+}
+
+.Achivments_members_amount_img{
+    margin: 0;
+    padding:0;
+    width: 33px;
+    height: 33px;
+    margin: 5px 11px 5px 0;
+    display:flex;
+    align-items: center;
+}
+
+.amounts_element_texts{
+    margin-right: auto;
+}
+
+.amounts_element_texts p{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/* Help-designing-footer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Help-designing-footer{
+    height:302px;
+    padding:0 100px;
+    margin-bottom:34px;
+}
+
+.Help-designing-footer_flex{
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 802px;
+    height:302px; ;
+}
+
+.Help_designing_footer_img{
+    order:-1;
+    margin: 0;
+}
+
+.Help-designing-footer_elemet_1{
+    width: 460px;
+    height: 215px;
+    padding-right: 42px;
+}
+
+.Help-designing-footer_elemet_1 h2{
+    margin:0;
+    margin-bottom:11px;
+}
+
+.Help-designing-footer_elemet_1 p{
+    margin: 0;
+    margin-bottom:22px;
+}
+
+.Help-designing-footer_button{
+    display: block;
+    width: 106px;
+    height: 36px;
+    text-align: center;
+    padding:10px 0;
+    box-sizing: border-box;
+}
+
+
+/* Customers!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.Customers{
+    padding:22.5px 100px;
+    margin: 0;
+    margin-bottom: 33px;
+}
+
+.Customers_flex{
+    width: 802px;
+    height: 226px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.Customers_main-img{
+    order:-1;
+    padding: 0;
+    margin-right: 54px;
+}
+
+.Customers_element_1{
+    display: flex;
+    width: 521px;
+    height: 226px;
+    flex-direction: column;
+}
+
+.Customers_element_1_mimi-flex{
+    display: flex;
+    width: 521px;
+    height: 31px;
+    justify-content: space-between;
+}
+
+.Customers_list{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width:343px;
+    height:33px;
+}
+
+.Customers_list_item{
+    width: 33px;
+    height: 33px;
+    display: flex;
+    align-items: center;
+}
+
+.Customers_button_1{
+    display: block;
+    box-sizing:border-box;
+    width: 155px;
+    height: 31px;
+    padding:5.5px 19px 5.5px 5.5px;
+}
+
+.Customers_element_1 h2{
+    margin: 0;
+    margin-bottom:5.5px;
+}
+
+.Customers_text1{
+    margin:0;
+    margin-bottom:11px;
+    order:-1
+}
+
+.Customers_text2{
+    margin:0;
+    margin-bottom:22px;
+}
+
+
+
+
+
+/* Customers_Updates!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!! */
+
+
+.Customers_Updates{
+    padding:0 100px;
+    margin:0;
+    margin-bottom: 68px;
+}
+
+.Customers_Updates h2{
+    text-align:center;
+    margin:0;
+    margin-bottom: 5.5px;
+}
+
+.Customers_Updates_text1{
+    margin:0;
+    margin-bottom: 11px;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Info_before_footer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+.Info-before-footer h2{
+    display: block;
+    margin:0 auto;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+.Info-before-footer_button_1{
+    display: block;
+    box-sizing:border-box;
+    width: 124px;
+    height: 36.5px;
+    padding:10px 0;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 22px;
+}
+
+
+
+/* footer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.footer{
+    padding: 44.5px 115px; 
+    margin: 0;
+    height: 229px;
+    box-sizing: border-box;
+}
+
+.footer_flex{
+    display: flex;
+    width: 773px;
+    height: 140px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin:0 ;
+    margin:0 auto ;
+}
+
+.footer_left_part{
+    width: 244px;
+    height: 132px;
+}
+
+.footer_left_part_logo_1{
+    display: block;
+    margin: 0;
+    margin-bottom:29px;
+}
+
+.footer_left_part_text1{
+    margin: 0;
+    margin-bottom:5.5px ;
+}
+
+.footer_left_part_text2{
+    margin: 0;
+    margin-bottom:28px ;
+}
+
+.footer_left_part_messengers_links{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 143px;
+    padding:0;
+    margin:0;
+}
+
+.footer_left_part_messengers_links_item{
+    list-style:none ;
+}
+
+.footer_left_part_messengers_links_item a{
+    width:22px;
+    height: 22px;
+    display: flex;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer_left_part_messengers_links li ul{
+    padding: 0;
+}
+
+
+
+.footer_Extra_information_list{
+    display: flex;
+    width: 442px;
+    height: 140px;
+    justify-content: space-between;
+    list-style:none;
+    margin: 0;
+    padding:0;
+}
+
+.footer_Extra_information_list_element{
+    width: 111px;
+    height:140px;
+}
+
+.footer_Extra_information_list_element ul{
+    padding: 0;
+    list-style:none;
+}
+
+.footer_Extra_information_list_element h2{
+    margin: 0;
+    margin-bottom: 17px;
+}
+
+.footer_Extra_information_list_item{
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.footer_Extra_information_list_element ul li:last-child{
+    margin: 0;
+}
+
+.footer_Extra_information_list_element:last-child{
+    width: 177.5px;
+    height: 65px;
+}
+
+.future-input{
+    display: flex;
+    justify-content: space-between;
+    width: 177.5px;
+    height: 28px;
+    margin: 0;
+    align-items: center;
+    padding:0 8px ;
+
+}
+
+.footer_Extra_information_list_item_email{
+    display: block;
+    width: 88px;
+    height: 14px;
+    margin: 0px;
+}
+
+
+
+
