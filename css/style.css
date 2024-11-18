@@ -1,7 +1,7 @@
 body{
     font-family: "Inter", sans-serif;
-    font-size:9.74px ;
-    line-height: 13.92px;
+    font-size:10px ;
+    line-height: 13px;
     background: #FFFFFF;
     color: #717171;
 }
@@ -15,15 +15,15 @@ body{
 .header_nav_list_1 a {
     color: #4D4D4D;
     text-decoration:none ;
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
 }
 
 .header_nav_register_button_1{
     color:#FFFFFF;
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
     text-decoration:none ;
     background-color: #4CAF4F;
@@ -36,27 +36,22 @@ body{
 
 .Hero{
     background-color:#F5F7FA;
-    /* background-image:url(../img_norm/Dot.svg) ;
-    background-repeat: no-repeat;
-    width: 32px;
-    height: 7px;
-    background-position:bottom center; */
 }
 
 .Hero h1{
     font-weight: 600;
-    font-size: 44.55px;
-    line-height: 52.9px;
+    font-size: 44.5px;
+    line-height: 53px;
 }
 
 .Hero p{
-    font-size: 11.14px;
-    line-height: 16.71px;
+    font-size: 11px;
+    line-height: 17px;
 }
 
 .Hero_register_button_1{
-    font-size: 11.14px;
-    line-height: 16.71px;
+    font-size: 11px;
+    line-height: 17px;
     font-weight: 500;
     color: #717171 ;
     text-decoration:none ;
@@ -67,8 +62,8 @@ body{
 
 .Our_Clients h2{
     font-weight: 600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
 }
 
 .Hero_title_h1_grey_parth{
@@ -80,14 +75,14 @@ body{
 }
 
 .Hero p{
-    font-size:11.14px;
-    line-height:16.71px;
+    font-size:11px;
+    line-height:17px;
 }
 
 .Hero_register_button_1{
     color:#FFFFFF;
-    font-size:11.14px;
-    line-height:16.71px;
+    font-size:11px;
+    line-height:17px;
     font-weight:500;
     background-color:#4CAF4F
 }
@@ -98,16 +93,17 @@ body{
 
 .Our_Clients h2{
     font-weight: 600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
     color:#4D4D4D
 }
 
 .Our_Clients p{
     font-weight: 400;
-    font-size: 11.14px;
-    line-height: 16.71px;
+    font-size: 11px;
+    line-height: 17px;
 }
+
 
 
 
@@ -116,20 +112,20 @@ body{
 
 .Community_title1{
     font-weight:600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
     color:#4D4D4D
 }
 
 .Community_text1{
-    font-size: 11.14px;
-    line-height: 16.71px;
+    font-size: 11px;
+    line-height: 17px;
 }
 
 .Community_article h3{
     font-weight: 700;
-    font-size: 19.49px;
-    line-height:25.06px;
+    font-size: 19.5px;
+    line-height:25px;
 }
 
 
@@ -139,15 +135,15 @@ body{
 
 .Unseen h2{
     font-weight:600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
     color:#4D4D4D
 }
 
 .Unseen_button_1{
     color:#FFFFFF;
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
     background-color:#4CAF4F;
     text-decoration:none ;
@@ -164,8 +160,8 @@ body{
 
 .Achivments h2{
     font-weight:600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
 }
 
 .Achivments_title_black{
@@ -177,20 +173,20 @@ body{
 }
 
 .Achivments_text1{
-    font-size: 11.14px;
-    line-height: 16.71px;
+    font-size: 11px;
+    line-height: 17px;
     color:#18191F;
 }
 
 .Achivments_amounts{
     font-weight: 700;
-    font-size:19.49px;
-    line-height: 25.06px;
+    font-size:19.5px;
+    line-height: 25px;
     color: #4D4D4D;
 }
 
 .Achivments_text2{
-    line-height: 16.71px;
+    line-height: 17px;
 }
 
 
@@ -200,15 +196,15 @@ body{
 
 .Help-designing-footer h2{
     font-weight:600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
     color:#4D4D4D
 }
 
 .Help-designing-footer_button{
     color:#FFFFFF;
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
     background-color:#4CAF4F;
     text-decoration:none ;
@@ -221,27 +217,27 @@ body{
 
 .Customers h2{
     font-weight: 600;
-    font-size: 13.92px;
-    line-height: 19.49px;
+    font-size: 14px;
+    line-height: 19.5px;
     color: #4CAF4F;
 }
 
 .Customers_text1{
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
 }
 
 .Customers_text1{
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
 }
 
 .Customers_button_1{
     text-decoration: none;
     font-weight: 600;
-    font-size: 13.92px;
-    line-height: 19.49px;
+    font-size: 14px;
+    line-height: 19.5px;
     color: #4CAF4F;
 
 }
@@ -253,14 +249,14 @@ body{
 
 .Customers_Updates h2{
     font-weight:600;
-    font-size:25.06px;
-    line-height: 30.63px;
+    font-size:25px;
+    line-height: 31px;
     color:#4D4D4D
 }
 
 .Customers_Updates_text1{
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
 }
 
@@ -270,14 +266,14 @@ body{
 
 .Customers_Updates_text2{
     font-weight: 600;
-    font-size: 13.92px;
-    line-height: 19.49px;
+    font-size: 14px;
+    line-height: 19.5px;
 }
 
 .Customers_Updates_button{
     font-weight: 600;
-    font-size: 13.92px;
-    line-height: 19.49px;
+    font-size: 14px;
+    line-height: 19.5px;
     color:#4CAF4F;
     text-decoration: none;
 }
@@ -289,15 +285,15 @@ body{
 
 .Info-before-footer h2{
     font-weight:600;
-    font-size: 44.55px;
-    line-height:52.9px;
+    font-size: 44.5px;
+    line-height:53px;
     color: #263238;
 }
 
 .Info-before-footer_button_1{
     color:#FFFFFF;
-    font-size:11.14px ;
-    line-height:16.71px ;
+    font-size:11px ;
+    line-height:17px ;
     font-weight: 500;
     background-color:#4CAF4F;
     text-decoration:none ;
@@ -332,8 +328,8 @@ footer{
 
 .footer_Extra_information_list_element h2{
     font-weight: 600;
-    font-size: 13.92px;
-    line-height: 19.49px;
+    font-size: 14px;
+    line-height: 19.5px;
     color: #FFFFFF;
 }
 

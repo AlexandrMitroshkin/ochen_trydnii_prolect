@@ -527,6 +527,7 @@ header{
 .Customers_Updates_list{
     display: flex;
     width:802px;
+    height:255.5px;
     justify-content: space-between;
     list-style:none;
     margin: 0;
@@ -537,6 +538,8 @@ header{
 .Customers_Updates_list_item{
     width: 256px;
     margin: 0;
+    position: relative;
+    bottom: 64px;
 }
 
 .Customers_Updates_list_item_img{
@@ -553,11 +556,12 @@ header{
     box-sizing: border-box;
     margin: 0;
     padding: 11px;
+    padding-bottom: 0;
 }
 
 .Customers_Updates_list_item_block p{
     margin: 0;
-    margin-bottom:11px;
+    margin-bottom:17px;
     text-align: center;
 }
 
@@ -566,7 +570,7 @@ header{
     width: 69px;
     height: 20px;
     margin: 0 auto;
-    /* margin-bottom: 17px; */
+    margin-bottom: 17px;
 }
 
 
@@ -727,9 +731,9 @@ header{
 
 .footer_Extra_information_list_item_email{
     display: block;
-    width: 88px;
+    /* width: 92px; */
     height: 14px;
-    margin: 0px;
+    margin: 0;
 }
 
 
